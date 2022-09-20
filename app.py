@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Dann Guiller Cuapiaco"
+PAGE_TITLE = "Digital Resume | Dann Guiller Cuapiaco"
 PAGE_ICON = ":wave:"
 NAME = "Dann Guiller Cuapiaco"
 DESCRIPTION = """
