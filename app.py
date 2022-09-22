@@ -20,7 +20,7 @@ Senior Software Engineer, providing technical solutions through high-quality ser
 """
 EMAIL = "cuapiaco.dann@yahoo.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/dann-guiller-cuapiaco-613012133/",
+    "LinkedIn": "www.linkedin.com/in/dann-guiller-cuapiaco",
     "GitHub": "https://github.com/daerco22",
 	"Facebook": "https://www.facebook.com/danncuapiaco"
 }
